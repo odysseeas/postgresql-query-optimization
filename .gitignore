@@ -1,0 +1,3 @@
+# Dataset CSVs are large and not redistributed here
+data/
+*.csv
